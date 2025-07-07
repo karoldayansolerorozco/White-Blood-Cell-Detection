@@ -34,5 +34,4 @@ We evaluate each technique based on:
 - Adaptive methods tend to outperform global thresholding on unevenly lit images.
 - Color-based filtering enhances the detection of WBCs when combined with morphological operations.
 
-## 📂 Project Structure
 
